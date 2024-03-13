@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shau Chin</h1>
+<h1 align="center">Hi 👋, I'm Shau Ching Michael Li</h1>
 <h3 align="center">A passionate Full-Stack developer based in Canada</h3>
 
 - 🔭 I’m currently working on **a Wuxia game in Unreal Engine**
